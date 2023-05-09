@@ -1,0 +1,15 @@
+body{
+    background: #F8E8A6;
+    text-align: center;
+}
+
+footer a{
+    color: green;
+    margin: 0 10px;
+}
+
+
+.croissant-photo{
+    border-radius: 10px;
+    margin: 15px 0;
+}
